@@ -2,7 +2,7 @@
 - Newbie developer from Indonesia
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aepranata&label=Profile%20views&color=0e75b6&style=flat" alt="aepranata" /> </p>
 
-## 🤔 What I'm
+## 🤔 What I'm maintaining
 - BananaDroid, RiceDroid, and Kernel for Xiaomi Redmi 5 (rosy)
 
 ## 💻 Working environment
