@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aepranata&label=Profile%20views&color=0e75b6&style=flat" alt="aepranata" /> </p>
 
 ## 🤔 What I'm maintaining
-- BananaDroid, RiceDroid, and Kernel for Xiaomi Redmi 5 (rosy)
+- BananaDroid, RiceDroid, crDroid Android, and Kernel for Xiaomi Redmi 5 (rosy)
 
 ## 💻 Working environment
 [![Archlinux Current](https://img.shields.io/badge/Archlinux-Current-blue?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
