@@ -12,5 +12,5 @@
 
 <h1 align="center">
 
-![Made with love in Nepal](https://madewithlove.now.sh/id?heart=true&template=for-the-badge)
+![Made with love in Nepal]([https://madewithlove.now.sh/np?text=Made+with+love+in+Nepal?heart=true&template=for-the-badge)
 </h1>
