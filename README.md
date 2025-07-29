@@ -2,7 +2,7 @@
 - Newbie developer from Nepal
 
 ##  What I'm maintaining
-- Unofficial evolution x , Unofficial LineageOS for Redmi Note 13 4G (sapphire/sapphiren)
+- Unofficial LineageOS for Redmi Note 13 4G (sapphire/sapphiren)
 ## 💻 Working environment
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-orange?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
 
