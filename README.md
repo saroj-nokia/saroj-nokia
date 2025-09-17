@@ -4,7 +4,7 @@
 
 ### 👋 Hello, World!
 
-I'm **Saroj Tajpuriya**, a passionate developer from Nepal. My journey began with a curiosity for how things work, and it's led me to the world of open-source and custom Android development. I'm currently the maintainer of **Unofficial LineageOS for the Redmi Note 13 4G (sapphire/sapphiren)**.
+I'm Saroj Tajpuriya, a **newbie developer** from Nepal. My journey began with a curiosity for how things work, and it's led me to the world of open-source and custom Android development. I'm currently the maintainer of Unofficial LineageOS for the Redmi Note 13 4G (sapphire/sapphiren).
 
 ---
 
