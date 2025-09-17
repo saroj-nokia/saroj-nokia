@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/main/assets/header.svg" alt="Hi there, I'm Saroj" width="100%">
+  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/refs/heads/main/main/assets/header.svg" alt="Hi there, I'm Saroj" width="100%">
 </div>
 
 ### 👋 Hello, World!
