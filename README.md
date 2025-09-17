@@ -56,6 +56,4 @@ I'm **Saroj Tajpuriya**, a passionate developer from Nepal. My journey began wit
   <img src="https://komarev.com/ghpvc/?username=saroj-nokia&label=Profile%20Views&color=0e75b2&style=flat" alt="saroj-nokia profile views" />
 </p>
 
-<h1 align="center">
-  ![Made with love in Nepal](https://madewithlove.now.sh/np?heart=true&text=Made+with+love+in+Nepal)
-</h1>
+<h3 align="center">Made with ❤️ from Nepal 🇳🇵</h3>
