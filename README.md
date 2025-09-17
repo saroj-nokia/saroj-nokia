@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/refs/heads/main/main/assets/header.svg" alt="Hi there, I'm Saroj" width="100%">
+  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/refs/heads/main/main/assets/anime_header.svg" alt="Saroj's Anime Profile" width="100%">
 </div>
 
 ### 👋 Hello, World!
 
-I'm Saroj Tajpuriya, a **newbie developer** from Nepal. My journey began with a curiosity for how things work, and it's led me to the world of open-source and custom Android development. I'm currently the maintainer of **Unofficial LineageOS for the Redmi Note 13 4G (sapphire/sapphiren)**.
+I'm **Saroj Tajpuriya**, a newbie developer from Nepal. My journey began with a curiosity for how things work, and it's led me to the world of open-source and custom Android development. I'm currently the maintainer of **Unofficial LineageOS for the Redmi Note 13 4G (sapphire/sapphiren)**.
 
 ---
 
@@ -20,10 +20,10 @@ I'm Saroj Tajpuriya, a **newbie developer** from Nepal. My journey began with a 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=saroj-nokia&show_icons=true&theme=radical&hide_title=true&icon_color=ff6347" alt="Saroj's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=saroj-nokia&show_icons=true&theme=omni&hide_title=true&icon_color=ff69b4" alt="Saroj's GitHub Stats" />
   </a>
   <a href="https://github-profile-trophy.vercel.app">
-    <img src="https://github-profile-trophy.vercel.app/?username=saroj-nokia&theme=radical" alt="Saroj's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saroj-nokia&theme=onedark" alt="Saroj's GitHub Trophies" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I'm Saroj Tajpuriya, a **newbie developer** from Nepal. My journey began with a 
 ### 🌐 My Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-nokia&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-nokia&layout=compact&theme=omni&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
@@ -62,3 +62,12 @@ I'm Saroj Tajpuriya, a **newbie developer** from Nepal. My journey began with a 
 <p align="center">
   <img alt="Made with love in Nepal" src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20in%20Nepal-blue?style=for-the-badge&labelColor=red&color=white">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/master/messy-anime-gif.gif" alt="Messy anime GIF" />
+</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/animated.svg" alt="A cool anime animation" />
+</div>
+<h3 align="center">I'm currently working on my projects and always learning!</h3>
+
+***
