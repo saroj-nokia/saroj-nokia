@@ -1,46 +1,61 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/main/assets/header.svg" alt="Hi there, I'm Saroj" width="100%">
+</div>
+
+### 👋 Hello, World!
+
+I'm **Saroj Tajpuriya**, a passionate developer from Nepal. My journey began with a curiosity for how things work, and it's led me to the world of open-source and custom Android development. I'm currently the maintainer of **Unofficial LineageOS for the Redmi Note 13 4G (sapphire/sapphiren)**.
+
+---
+
+### 💻 My Core Stack & Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,androidstudio,vscode,git,github,markdown,bash,c,cpp,python&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saroj-nokia&show_icons=true&theme=radical&hide_title=true&icon_color=ff6347" alt="Saroj's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-nokia&theme=radical&hide_title=true" alt="Saroj's GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saroj-nokia&theme=radical" alt="Saroj's GitHub Trophies" />
+</p>
+
+---
+
+### 🌐 My Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saroj-nokia&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ What I'm Currently Building
+
+- **LineageOS Unofficial Port:** My main focus is on maintaining and updating the latest version of LineageOS for the Redmi Note 13 4G, ensuring a smooth and stable experience for users.
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://t.me/Sarojtaj77" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+### 👁️ Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saroj-nokia&label=Profile%20Views&color=0e75b2&style=flat" alt="saroj-nokia profile views" />
+</p>
+
 <h1 align="center">
-  👋 Hello there! I'm Saroj Tajpuriya
+  ![Made with love in Nepal](https://madewithlove.now.sh/np?heart=true&text=Made+with+love+in+Nepal)
 </h1>
-
-<p align="center">
-  A passionate and **newbie developer** from **Nepal** 🇳🇵, eager to learn and contribute to the tech world.
-</p>
-
----
-
-## 🚀 What I'm Currently Working On
-- **Unofficial LineageOS for Redmi Note 13 4G (sapphire/sapphiren)**: Diving deep into custom ROM development and contributing to the open-source community.
-
----
-
-## 💻 My Development Environment
-Here's a glimpse into the tools and systems that power my development:
-
-[![My Ubuntu Setup](https://img.shields.io/badge/Ubuntu-22.04-orange?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
-
----
-
-## 📝 A Note for Contributors
-If you discover a commit in my repositories where your authorship is missing or incorrectly attributed, please don't hesitate to **reach out**. I'm committed to ensuring proper credit is given and will promptly update the commit author.
-
----
-
-## 📫 Let's Connect!
-I'm always open to collaboration and discussion. Feel free to connect with me through these platforms:
-
-<p align="left">
-  <a href="https://github.com/saroj-nokia" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Profile" height="40" />
-  </a>
-  <a href="https://t.me/Sarojtaj77" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff" alt="Telegram Handle" height="40" />
-  </a>
-</p>
-
-<h1 align="center">Made with ❤️ from Nepal 🇳🇵</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saroj-nokia&show_icons=true&theme=radical" alt="Saroj's GitHub Stats" />
-</p>
