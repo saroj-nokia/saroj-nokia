@@ -66,7 +66,7 @@ I'm **Saroj Tajpuriya**, a newbie developer from Nepal. My journey began with a 
   <img src="https://raw.githubusercontent.com/Platane/Platane/master/messy-anime-gif.gif" alt="Messy anime GIF" />
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/animated.svg" alt="A cool anime animation" />
+  <img src="https://raw.githubusercontent.com/saroj-nokia/saroj-nokia/refs/heads/main/main/assets/animated.svg" alt="A cool anime animation" />
 </div>
 <h3 align="center">I'm currently working on my projects and always learning!</h3>
 
