@@ -39,6 +39,8 @@ I'm always open to collaboration and discussion. Feel free to connect with me th
   </a>
 </p>
 
-<h1 align="center">
-  Made with ❤️ from Nepal 🇳🇵
-</h1>
+<h1 align="center">Made with ❤️ from Nepal 🇳🇵</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saroj-nokia&show_icons=true&theme=radical" alt="Saroj's GitHub Stats" />
+</p>
